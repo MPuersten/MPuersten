@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitchP95
 - 👀 I’m interested in continuous learning and Full stack development.
-- 🌱 I’m currently practicing AWS Project Deployment with CloudFormation as a part of the AWS Cloud Project Bootcamp!
+- 🌱 I’m currently learning Astro! 🚀
 - 💞️ I’m looking to collaborate on basically anything related to what I'm learning!
 - 📫 Email me at Mitch.Puersten@gmail.com
